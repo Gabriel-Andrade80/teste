@@ -1,0 +1,13 @@
+Nome: Nota 1: Nota 2: Quer continuar? [N/S] Nome: Nota 1: Nota 2: Quer continuar? [N/S] Nome: Nota 1: Nota 2: Quer continuar? [N/S] No. NOME         MÉDIA
+--------------------------
+0   Maria          7.5
+1   Claudio        2.8
+2   Ana            9.5
+--------------------------
+de qual aluno deseja mostrar as notas? [999 interrompe]: notas do aluno Ana: [10.0,9.0]
+--------------------------
+de qual aluno deseja mostrar as notas? [999 interrompe]: notas do aluno Ana: [10.0,9.0]
+--------------------------
+de qual aluno deseja mostrar as notas? [999 interrompe]: notas do aluno Ana: [10.0,9.0]
+--------------------------
+de qual aluno deseja mostrar as notas? [999 interrompe]: 
